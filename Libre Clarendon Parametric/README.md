@@ -1,13 +1,19 @@
-Libre Clarendon Fonts
+Libre Clarendon Parametric
 ======================
 
-Libre Clarendon in 4 configurations
+(Work in progress)
 
-## License
+3 Demos:
+- Paramnetric with Berlow Tables & Darkness Tables
+- VariableFont with Width & Weight axis & Darkness Tables
+- VariableFont with Width & Weight axis
 
-- Libre Clarendon is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
-- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/impallari/Libre-Clarendon/blob/master/OFL.txt)
 
-## Authors
+What are Darkness Tables:
+======================
 
-[Pablo Impallari](http://www.impallari.com) 
+Measuring Darkness with calligraphy variales (https://typedrawers.com/discussion/comment/69365/#Comment_69365)
+
+Navigating Darkness in multiaxis failes: (https://typedrawers.com/discussion/comment/69723/#Comment_69723)
+
+
